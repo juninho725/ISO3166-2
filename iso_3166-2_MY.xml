@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Country>
+	<fullname>Malaysia</fullname>
+	<shortname>Malaysia</shortname>
+	<alpha-2>MY</alpha-2>
+	<alpha-3>MYS</alpha-3>
+	<numericcode>458</numericcode>
+	<remarks></remarks>
+	<independent>YES</independent>
+	<territoryname>Peninsular Malaysia, Sabah, Sarawak</territoryname>
+	<status>Officially assigned</status>
+	<iso>ISO 3166-2:MY</iso>
+	<Subdivisions>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-01</code>
+			<name>Johor</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-02</code>
+			<name>Kedah</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-03</code>
+			<name>Kelantan</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-04</code>
+			<name>Melaka</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-05</code>
+			<name>Negeri Sembilan</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-06</code>
+			<name>Pahang</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-07</code>
+			<name>Pulau Pingng</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-08</code>
+			<name>Perak</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-09</code>
+			<name>Perlis</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-10</code>
+			<name>Selangor</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-11</code>
+			<name>Terengganu</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-12</code>
+			<name>Sabah</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>MY-13</code>
+			<name>Sarawak</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>federal territory</category>
+			<code>MY-14</code>
+			<name>Wilayah Persekutuan Kuala Lumpur</name>
+			<altname>Kuala Lumpur</altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>federal territory</category>
+			<code>MY-15</code>
+			<name>Wilayah Persekutuan Labuan</name>
+			<altname>Labuan</altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>federal territory</category>
+			<code>MY-16</code>
+			<name>Wilayah Persekutuan Putrajaya</name>
+			<altname>Putrajaya</altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+	</Subdivisions>
+</Country>
+
