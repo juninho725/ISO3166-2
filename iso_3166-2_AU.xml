@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Country>
+	<fullname>Australia</fullname>
+	<shortname>Australia</shortname>
+	<alpha-2>AU</alpha-2>
+	<alpha-3>AUS</alpha-3>
+	<numericcode>036</numericcode>
+	<iso>ISO 3166-2:AU</iso>
+	<CategoryItem>
+		<Category>
+			<name>state</name>
+			<num>6</num>
+			<parent></parent>
+		</Category>
+		<Category>
+			<name>territory</name>
+			<num>2</num>
+			<parent></parent>
+		</Category>
+	</CategoryItem>
+	<SubdivisionItem>
+		<Subdivision>
+			<category>state</category>
+			<code>AU_NSW</code>
+			<name>New South Wales</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>AU_QLD</code>
+			<name>Queensland</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>AU_SA</code>
+			<name>South Australia</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>AU_TAS</code>
+			<name>Tasmania</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>AU_VIC</code>
+			<name>Victoria</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>state</category>
+			<code>AU_WA</code>
+			<name>Western Australia</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>territory</category>
+			<code>AU_ACT</code>
+			<name>Australian Capital Territory</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+		<Subdivision>
+			<category>territory</category>
+			<code>AU_NT</code>
+			<name>Northern Territory</name>
+			<altname></altname>
+			<localname></localname>
+			<parent></parent>
+			<refer></refer>
+		</Subdivision>
+	</SubdivisionItem>
+</Country>
+

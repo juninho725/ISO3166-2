@@ -5,12 +5,15 @@
 	<alpha-2>JP</alpha-2>
 	<alpha-3>JPN</alpha-3>
 	<numericcode>392</numericcode>
-	<remarks></remarks>
-	<independent>YES</independent>
-	<territoryname></territoryname>
-	<status>Officially assigned</status>
 	<iso>ISO 3166-2:JP</iso>
-	<Subdivisions>
+	<CategoryItem>
+		<Category>
+			<name>prefecture</name>
+			<num>47</num>
+			<parent></parent>
+		</Category>
+	</CategoryItem>
+	<SubdivisionItem>
 		<Subdivision>
 			<category>prefecture</category>
 			<code>JP-01</code>
@@ -434,6 +437,6 @@
 			<parent></parent>
 			<refer></refer>
 		</Subdivision>
-	</Subdivisions>
+	</SubdivisionItem>
 </Country>
 

@@ -5,12 +5,20 @@
 	<alpha-2>MY</alpha-2>
 	<alpha-3>MYS</alpha-3>
 	<numericcode>458</numericcode>
-	<remarks></remarks>
-	<independent>YES</independent>
-	<territoryname>Peninsular Malaysia, Sabah, Sarawak</territoryname>
-	<status>Officially assigned</status>
 	<iso>ISO 3166-2:MY</iso>
-	<Subdivisions>
+	<CategoryItem>
+		<Category>
+			<name>state</name>
+			<num>13</num>
+			<parent></parent>
+		</Category>
+		<Category>
+			<name>federal territory</name>
+			<num>3</num>
+			<parent></parent>
+		</Category>
+	</CategoryItem>
+	<SubdivisionItem>
 		<Subdivision>
 			<category>state</category>
 			<code>MY-01</code>
@@ -155,6 +163,6 @@
 			<parent></parent>
 			<refer></refer>
 		</Subdivision>
-	</Subdivisions>
+	</SubdivisionItem>
 </Country>
 
